@@ -1,0 +1,35 @@
+_repo: Principles-of-Geology--13-or-The-Modern-Changes-of-the-Earth-and-its-Inhabitants-Considered-a__33224
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lyell, Charles, Sir
+    birthdate: 1797
+    deathdate: 1875
+    gutenberg_agent_id: '1297'
+    url: http://www.gutenberg.org/2009/agents/1297
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Lyell
+description: As important to modern world views as any work of Darwin, Marx, or Freud,
+  Lyell's Principles of Geology has never before been available in paperback. In the
+  second of three volumes, Lyell (1797-1875) continues his uniformitarian argument
+  of Volume I--the physical features of the earth are endlessly fluctuating around
+  a stable mean--but focuses on organic rather than inorganic processes. Volume II
+  is widely known because of its influence on Darwin, who took the book on his famous
+  Beagle voyage and was stimulated by Lyell's extensive treatment of biological history
+  and diversity.
+gutenberg_issued: '2010-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33224'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Geology'
+title: "Principles of Geology\r\nor, The Modern Changes of the Earth and its Inhabitants\
+  \ Considered as Illustrative of Geology"
+url: http://www.gutenberg.org/ebooks/33224
